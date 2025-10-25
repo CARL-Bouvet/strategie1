@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.8">
   <diagram name="Page-1" id="tCz5o6B3La64OQkrS9rg">
-    <mxGraphModel dx="2398" dy="1279" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5095" dy="2718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -178,10 +178,10 @@
           <mxGeometry x="-100" y="650" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Zp-tGs1b_1on2ZzOOa1h-89" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;en cas de gros mouvements, c&#39;est l&#39;indice des trades que l&#39;on utilisera. donc on reste parfaitement concret, modeste et methodique.&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1180" y="950" width="440" height="150" as="geometry" />
+          <mxGeometry x="1130" y="50" width="380" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Zp-tGs1b_1on2ZzOOa1h-98" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;risque minimal implique uniquement la position des stop loss.&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="680" y="940" width="440" height="150" as="geometry" />
+          <mxGeometry x="630" y="40" width="420" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
