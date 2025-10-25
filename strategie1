@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.8">
+  <diagram name="Page-1" id="tCz5o6B3La64OQkrS9rg">
+    <mxGraphModel dx="1772" dy="945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jb3ZzUBU_giwdNnf63Rp-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jb3ZzUBU_giwdNnf63Rp-1" target="jb3ZzUBU_giwdNnf63Rp-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="219.9999999999999" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jb3ZzUBU_giwdNnf63Rp-1" value="début" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jb3ZzUBU_giwdNnf63Rp-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jb3ZzUBU_giwdNnf63Rp-5" target="jb3ZzUBU_giwdNnf63Rp-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jb3ZzUBU_giwdNnf63Rp-9" value="higher/lower" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jb3ZzUBU_giwdNnf63Rp-8">
+          <mxGeometry x="-0.0167" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jb3ZzUBU_giwdNnf63Rp-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jb3ZzUBU_giwdNnf63Rp-5" target="jb3ZzUBU_giwdNnf63Rp-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jb3ZzUBU_giwdNnf63Rp-12" value="incertaine" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jb3ZzUBU_giwdNnf63Rp-11">
+          <mxGeometry x="-0.5805" y="1" relative="1" as="geometry">
+            <mxPoint x="21" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jb3ZzUBU_giwdNnf63Rp-5" value="tendance higher/lower&lt;div&gt;ou&amp;nbsp;&lt;/div&gt;&lt;div&gt;incertaine?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="170" width="165" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="jb3ZzUBU_giwdNnf63Rp-7" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jb3ZzUBU_giwdNnf63Rp-17" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="140" width="780" height="650" as="geometry" />
+        </mxCell>
+        <mxCell id="jb3ZzUBU_giwdNnf63Rp-18" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 51, 255)); font-size: 15px;&quot;&gt;analyse market-structure 1&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: transparent; font-size: 12px;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 51, 255));&quot;&gt;sur 10 heures dans le timeframe d&#39;une minute&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="jb3ZzUBU_giwdNnf63Rp-17">
+          <mxGeometry x="540" y="10" width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="jb3ZzUBU_giwdNnf63Rp-10" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="jb3ZzUBU_giwdNnf63Rp-17">
+          <mxGeometry x="324" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
